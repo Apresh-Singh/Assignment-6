@@ -1,0 +1,22 @@
+
+
+.card{
+    height: 150px;
+    width: 300px;
+    border-radius: 10px ;
+    background-color: steelblue;
+    margin: 10px ;
+    padding-top: 5px ;
+}
+.card-text{
+    color: white;
+    text-align: center;
+}
+.head-text{
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 20px;
+    font-weight: 700;
+    font-size: 30px;
+    text-transform: uppercase;
+}
